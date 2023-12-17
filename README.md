@@ -1,2 +1,1 @@
-"# Buoi1" 
-"# Buoi1" 
+Bài tập lớn học phần " Nhập môn trí tuệ nhân tạo "
